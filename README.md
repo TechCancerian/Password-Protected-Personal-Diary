@@ -15,4 +15,4 @@ The basic user-defined functions used in this project are listed below:
 * void edit_password() – to modify/change a password
 * void delete_record() – to delete or remove a record permanently from system file
 
-
+![](https://i.ibb.co/Z6ZkFn9/Untitled.png)
